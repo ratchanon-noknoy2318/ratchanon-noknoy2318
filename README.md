@@ -1,51 +1,48 @@
-<div align="center">
-  <img src="https://ratchanonnoknoy.vercel.app/Linkedin/6.png" width="32%"/> <img src="https://ratchanonnoknoy.vercel.app/Linkedin/7.png" width="32%"/> <img src="https://ratchanonnoknoy.vercel.app/Linkedin/8.png" width="32%"/>
-  <br>
-  <img src="https://ratchanonnoknoy.vercel.app/Linkedin/9.png" width="48.5%"/> <img src="https://ratchanonnoknoy.vercel.app/Linkedin/10.png" width="48.5%"/>
-</div>
-
 # Ratchanon Noknoy
-**Software Engineer | Next.js & Healthcare Solutions**
+**Software Engineer | Next.js & Healthcare Solutions Specialist**
 
-Software Engineer specializing in **Healthcare Digital Transformation**. Building scalable systems with Next.js and LINE OA Automation.
+Software Engineer focused on **Healthcare Digital Transformation**. Expert in automating clinical workflows and building scalable web systems.
 
 ---
 
 ### Technical Proficiency
-| Category | Skills |
+| Category | Core Skills |
 | :--- | :--- |
-| **Frontend** | Next.js, React, Tailwind CSS, CSS Modules |
-| **Backend** | Node.js, SQL, RESTful API, LINE Messaging API |
-| **Standards** | Clean Architecture, SOLID, Agile/Scrum, Git |
+| **Frontend** | **Next.js**, React, Tailwind CSS |
+| **Backend** | **Google App Scripts**, SQL, LINE Messaging API |
+| **Methodology** | **Clean Architecture**, SOLID Principles, Git |
 
 ---
 
 ### Professional Experience
 **Full Stack Developer | KPPMCH Hospital** (2025)
 
-| Focus Area | Key Contributions & Impact |
+| Impact Area | Key Contributions |
 | :--- | :--- |
-| **Digitization** | Developed a digital registration system, successfully transitioning to paperless operations. |
-| **Performance** | Optimized the official hospital web portal for enhanced SEO and loading speed using Next.js. |
-| **Automation** | Engineered automated maternal care alert systems via LINE Messaging API integration. |
+| **Digitization** | • Developed digital registration system<br>• Achieved **100% paperless** operations |
+| **Performance** | • Optimized web portal via Next.js<br>• Improved **SEO & PageSpeed** metrics |
+| **Automation** | • Integrated **LINE Messaging API**<br>• Automated maternal care alert system |
 
 ---
 
-### Education
-| Institution | Degree / Field of Study | Year |
-| :--- | :--- | :--- |
-| **Mae Fah Luang University** | Bachelor's Degree in Software Engineering | 2024 |
-| **Nawaminthrachinuthit Bodindecha** | Science-Mathematics (IPST) | 2017 |
-
----
-
-### Contact & Links
-| Platform | Link |
+### Education & Links
+| Type | Detail |
 | :--- | :--- |
-| **Main Portfolio** | [ratchanonnoknoy.vercel.app](https://ratchanonnoknoy.vercel.app/) |
-| **LinkedIn** | [Ratchanon Noknoy](https://www.linkedin.com/in/ratchanon-noknoy/) |
-| **Read Portfolio** | [Read Portfolio (Render)](https://ratchanon-portfolio.onrender.com/) |
-| **Source Code** | [Ratchanon2318 (GitLab)](https://gitlab.com/ratchanon.noknoy2318) |
+| **Education** | **Bachelor's Degree in Software Engineering**, Mae Fah Luang University (2024) |
+| **Links** | [Portfolio](https://ratchanonnoknoy.vercel.app/) / [LinkedIn](https://www.linkedin.com/in/ratchanon-noknoy/) / [GitLab](https://gitlab.com/ratchanon.noknoy2318) |
 | **Credentials** | [Transcript](https://drive.google.com/file/d/1Mg4eAGtq2RxS1nW2fJ1qw03oKTnWl1z0/view?usp=sharing) / [Certificate](https://drive.google.com/file/d/1otllw5SAm5uMRiAOCGNRodGWYVE9FHeC/view?usp=sharing) |
+
+---
+
+### Highlighted Achievement
+<div align="center">
+  <p>Final Day at KPPMCH - Project Summary & Journey</p>
+  <a href="https://www.linkedin.com/posts/ratchanon-noknoy_%E0%B9%84%E0%B8%97%E0%B8%A2-30-%E0%B8%81%E0%B8%99%E0%B8%A2%E0%B8%B2%E0%B8%A2%E0%B8%99-2568-%E0%B8%A7%E0%B8%99%E0%B8%AA%E0%B8%94%E0%B8%97%E0%B8%B2%E0%B8%A2%E0%B8%82%E0%B8%AD%E0%B8%87%E0%B8%9C%E0%B8%A1%E0%B8%97-activity-7404769727514005505-NQDb">
+    <img src="https://ratchanonnoknoy.vercel.app/Linkedin/6.png" width="85%" style="border: 1px solid #eee;" />
+    <br>
+    <br>
+    View Full Post on LinkedIn
+  </a>
+</div>
 
 ---
