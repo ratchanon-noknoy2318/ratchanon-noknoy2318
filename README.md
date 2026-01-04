@@ -1,8 +1,11 @@
+<p align="center">
+  <img src="https://ratchanonnoknoy.vercel.app/cover.jpg" width="100%" />
+</p>
+
 # Ratchanon Noknoy
 **Software Engineer | React & Next.js Specialist**
 
-Hi, I’m Ratchanon Noknoy, a Software Engineer specializing in React and Next.js.  
-I focus on building modern, performant, and scalable web applications.
+Software Engineer focused on **Healthcare Solutions** and **Digital Transformation**. Building modern, performant, and scalable systems using Next.js and LINE OA Automation.
 
 ---
 
@@ -35,10 +38,13 @@ I focus on building modern, performant, and scalable web applications.
 ---
 
 ## Contact & Links
-**Portfolio:** [ratchanonnoknoy.vercel.app](https://ratchanonnoknoy.vercel.app/)  
-**LinkedIn:** [linkedin.com/in/ratchanon-noknoy](https://www.linkedin.com/in/ratchanon-noknoy/)  
-**Email:** ratchanon.noknoy2318@gmail.com  
-**Transcript:** [View](https://drive.google.com/file/d/1Mg4eAGtq2RxS1nW2fJ1qw03oKTnWl1z0/view?usp=sharing)  
-**Certificate:** [View](https://drive.google.com/file/d/1otllw5SAm5uMRiAOCGNRodGWYVE9FHeC/view?usp=sharing)
+| Platform | Link |
+| :--- | :--- |
+| **Main Portfolio** | [ratchanonnoknoy.vercel.app](https://ratchanonnoknoy.vercel.app/) |
+| **LinkedIn** | [Ratchanon Noknoy](https://www.linkedin.com/in/ratchanon-noknoy/) |
+| **Email** | [ratchanon.noknoy2318@gmail.com](mailto:ratchanon.noknoy2318@gmail.com) |
+| **Read Portfolio** | [Read Portfolio (Render)](https://ratchanon-portfolio.onrender.com/) |
+| **Source Code Repository** | [Ratchanon2318 (Ratchanon Noknoy)](https://github.com/Ratchanon2318) |
+| **Credentials** | [Transcript](https://drive.google.com/file/d/1Mg4eAGtq2RxS1nW2fJ1qw03oKTnWl1z0/view?usp=sharing) / [Certificate](https://drive.google.com/file/d/1otllw5SAm5uMRiAOCGNRodGWYVE9FHeC/view?usp=sharing) |
 
 ---
