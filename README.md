@@ -1,50 +1,51 @@
-<p align="center">
-  <img src="https://ratchanonnoknoy.vercel.app/cover.jpg" width="100%" />
-</p>
+<div align="center">
+  <img src="https://ratchanonnoknoy.vercel.app/Linkedin/6.png" width="32%"/> <img src="https://ratchanonnoknoy.vercel.app/Linkedin/7.png" width="32%"/> <img src="https://ratchanonnoknoy.vercel.app/Linkedin/8.png" width="32%"/>
+  <br>
+  <img src="https://ratchanonnoknoy.vercel.app/Linkedin/9.png" width="48.5%"/> <img src="https://ratchanonnoknoy.vercel.app/Linkedin/10.png" width="48.5%"/>
+</div>
 
 # Ratchanon Noknoy
-**Software Engineer | React & Next.js Specialist**
+**Software Engineer | Next.js & Healthcare Solutions**
 
-Software Engineer focused on **Healthcare Solutions** and **Digital Transformation**. Building modern, performant, and scalable systems using Next.js and LINE OA Automation.
+Software Engineer specializing in **Healthcare Digital Transformation**. Building scalable systems with Next.js and LINE OA Automation.
 
 ---
 
-## Technical Stack
-| Category | Technologies |
+### Technical Proficiency
+| Category | Skills |
 | :--- | :--- |
 | **Frontend** | Next.js, React, Tailwind CSS, CSS Modules |
 | **Backend** | Node.js, SQL, RESTful API, LINE Messaging API |
-| **Methodology** | Clean Architecture, SOLID, Agile/Scrum, Git |
+| **Standards** | Clean Architecture, SOLID, Agile/Scrum, Git |
 
 ---
 
-## Professional Experience
-**Full Stack Developer | Kamphaeng Phet Community Hospital** (2025)
+### Professional Experience
+**Full Stack Developer | KPPMCH Hospital** (2025)
 
-| Focus | Key Achievement |
+| Focus Area | Key Contributions & Impact |
 | :--- | :--- |
-| **Digitization** | Built a 24/7 registration system, eliminating all paper forms. |
-| **Performance** | Optimized the official hospital website for SEO and speed using Next.js. |
-| **Automation** | Developed automated maternal care alerts via LINE Messaging API. |
+| **Digitization** | Developed a digital registration system, successfully transitioning to paperless operations. |
+| **Performance** | Optimized the official hospital web portal for enhanced SEO and loading speed using Next.js. |
+| **Automation** | Engineered automated maternal care alert systems via LINE Messaging API integration. |
 
 ---
 
-## Education
-| Level | Institution | Field of Study | Year |
-| :--- | :--- | :--- | :--- |
-| **Bachelor's Degree** | Mae Fah Luang University | Software Engineering | 2024 |
-| **High School** | Nawaminthrachinuthit Bodindecha | Science-Mathematics (IPST) | 2017 |
+### Education
+| Institution | Degree / Field of Study | Year |
+| :--- | :--- | :--- |
+| **Mae Fah Luang University** | Bachelor's Degree in Software Engineering | 2024 |
+| **Nawaminthrachinuthit Bodindecha** | Science-Mathematics (IPST) | 2017 |
 
 ---
 
-## Contact & Links
+### Contact & Links
 | Platform | Link |
 | :--- | :--- |
 | **Main Portfolio** | [ratchanonnoknoy.vercel.app](https://ratchanonnoknoy.vercel.app/) |
 | **LinkedIn** | [Ratchanon Noknoy](https://www.linkedin.com/in/ratchanon-noknoy/) |
-| **Email** | [ratchanon.noknoy2318@gmail.com](mailto:ratchanon.noknoy2318@gmail.com) |
 | **Read Portfolio** | [Read Portfolio (Render)](https://ratchanon-portfolio.onrender.com/) |
-| **Source Code Repository** | [Ratchanon2318 (Ratchanon Noknoy)](https://github.com/ratchanon-noknoy2318) |
+| **Source Code** | [Ratchanon2318 (GitLab)](https://gitlab.com/ratchanon.noknoy2318) |
 | **Credentials** | [Transcript](https://drive.google.com/file/d/1Mg4eAGtq2RxS1nW2fJ1qw03oKTnWl1z0/view?usp=sharing) / [Certificate](https://drive.google.com/file/d/1otllw5SAm5uMRiAOCGNRodGWYVE9FHeC/view?usp=sharing) |
 
 ---
