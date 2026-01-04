@@ -44,7 +44,7 @@ Software Engineer focused on **Healthcare Solutions** and **Digital Transformati
 | **LinkedIn** | [Ratchanon Noknoy](https://www.linkedin.com/in/ratchanon-noknoy/) |
 | **Email** | [ratchanon.noknoy2318@gmail.com](mailto:ratchanon.noknoy2318@gmail.com) |
 | **Read Portfolio** | [Read Portfolio (Render)](https://ratchanon-portfolio.onrender.com/) |
-| **Source Code Repository** | [Ratchanon2318 (Ratchanon Noknoy)](https://github.com/Ratchanon2318) |
+| **Source Code Repository** | [Ratchanon2318 (Ratchanon Noknoy)](https://github.com/ratchanon-noknoy2318) |
 | **Credentials** | [Transcript](https://drive.google.com/file/d/1Mg4eAGtq2RxS1nW2fJ1qw03oKTnWl1z0/view?usp=sharing) / [Certificate](https://drive.google.com/file/d/1otllw5SAm5uMRiAOCGNRodGWYVE9FHeC/view?usp=sharing) |
 
 ---
