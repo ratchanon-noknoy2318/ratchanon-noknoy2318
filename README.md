@@ -20,12 +20,19 @@
 
 ---
 
-### Education & Contact
+### Education
+| Level | Institution | Field of Study | Activities & Achievements |
+| :--- | :--- | :--- | :--- |
+| **Bachelor's Degree** | Mae Fah Luang University | B.Sc. Software Engineering (2024) | • Produced digital lessons for Chinese I (MFU Digital Learning) |
+| **High School** | Nawaminthrachinuthit Bodindecha | Science-Mathematics, IPST (2017) | • Silver Medalist: Biology & Physics Academic Competition |
+
+---
+
+### Contact & Documents
 | Type | Detail |
 | :--- | :--- |
-| **Education** | B.Sc. Software Engineering, MFU (2024) |
-| **Links** | [Portfolio](https://ratchanonnoknoy.vercel.app/) / [LinkedIn](https://www.linkedin.com/in/ratchanon-noknoy/) / [GitLab](https://gitlab.com/ratchanon.noknoy2318) |
-| **Documents** | [Transcript](https://drive.google.com/file/d/1Mg4eAGtq2RxS1nW2fJ1qw03oKTnWl1z0/view?usp=sharing) / [Certificate](https://drive.google.com/file/d/1otllw5SAm5uMRiAOCGNRodGWYVE9FHeC/view?usp=sharing) |
+| **Links** | [Portfolio](https://ratchanon-portfolio.onrender.com/) / [LinkedIn](https://www.linkedin.com/in/ratchanon-noknoy/) / [GitLab](https://gitlab.com/ratchanon.noknoy2318) |
+| **Documents** | [Transcript](https://drive.google.com/file/d/1Mg4eAGtq2RxS1nW2fJ1qw03oKTnWl1z0/view?usp=sharing) / [Certificates](https://drive.google.com/drive/folders/1j5vfWKoMlui5-D_4l2DrsH9CXVfc9Yf6) |
 
 ---
 
