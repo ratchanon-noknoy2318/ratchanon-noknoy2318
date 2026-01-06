@@ -3,45 +3,39 @@
 
 ---
 
+### Contact & Documents
+| Type | Detail |
+| :--- | :--- |
+| **Online Presence** | [Portfolio](https://ratchanon-portfolio.onrender.com/) / [LinkedIn](https://www.linkedin.com/in/ratchanon-noknoy/) / [GitLab](https://gitlab.com/ratchanon.noknoy2318) |
+| **Documents** | [Transcript](https://drive.google.com/file/d/1Mg4eAGtq2RxS1nW2fJ1qw03oKTnWl1z0/view?usp=sharing) / [Certificates](https://drive.google.com/drive/folders/1j5vfWKoMlui5-D_4l2DrsH9CXVfc9Yf6) |
+
+---
+
 ### Technical Proficiency
 | Category | Skills |
 | :--- | :--- |
 | **Frontend** | **Next.js**, React, Tailwind CSS |
-| **Backend** | **Google App Scripts**, SQL, LINE API |
+| **Backend** | **Google App Scripts**, SQL, LINE API, PHP |
 | **Methodology** | Clean Architecture, SOLID, Git |
 
 ---
 
 ### Professional Experience
-| Role & Timeline | Key Contributions & Impact |
+| Role & Timeline | Key Contributions |
 | :--- | :--- |
-| **Full Stack Developer**<br>KPPMCH Hospital (2025) | • Built digital registration & paperless systems.<br>• Optimized web portal for SEO & Speed (Next.js).<br>• Engineered maternal care alerts via LINE API. |
-| **Programmer Intern**<br>Kosamphi Hospital (2024) | • Developed ITA & Booking systems using **PHP**.<br>• Integrated **LINE Notify** for workflow efficiency. |
+| **Full Stack Developer**<br>KPPMCH Hospital<br>(2025) | • Built digital registration & paperless systems.<br>• Optimized web portal for SEO & Speed (Next.js).<br>• Engineered maternal care alerts via LINE API. |
+| **Programmer Intern**<br>Kosamphi Hospital<br>(2024) | • Developed ITA & Booking systems using **PHP**.<br>• Integrated **LINE Notify** for workflow efficiency. |
 
 ---
 
 ### Education
-| Level | Institution | Field of Study | Activities & Achievements |
-| :--- | :--- | :--- | :--- |
-| **Bachelor's Degree** | Mae Fah Luang University | B.Sc. Software Engineering (2024) | • Produced digital lessons for Chinese I (MFU Digital Learning) |
-| **High School** | Nawaminthrachinuthit Bodindecha | Science-Mathematics, IPST (2017) | • Silver Medalist: Biology & Physics Academic Competition |
-
----
-
-### Contact & Documents
-| Type | Detail |
+| Degree & Timeline | Institution & Achievement |
 | :--- | :--- |
-| **Links** | [Portfolio](https://ratchanon-portfolio.onrender.com/) / [LinkedIn](https://www.linkedin.com/in/ratchanon-noknoy/) / [GitLab](https://gitlab.com/ratchanon.noknoy2318) |
-| **Documents** | [Transcript](https://drive.google.com/file/d/1Mg4eAGtq2RxS1nW2fJ1qw03oKTnWl1z0/view?usp=sharing) / [Certificates](https://drive.google.com/drive/folders/1j5vfWKoMlui5-D_4l2DrsH9CXVfc9Yf6) |
+| **B.Sc. Software Engineering**<br>(2024) | **Mae Fah Luang University**<br>• Produced digital lessons for Chinese I (MFU Digital Learning). |
 
 ---
 
 ### Highlighted Achievement
-<div align="center">
-  <a href="https://www.linkedin.com/posts/ratchanon-noknoy_%E0%B9%84%E0%B8%97%E0%B8%A2-30-%E0%B8%81%E0%B8%99%E0%B8%A2%E0%B8%B2%E0%B8%A2%E0%B8%99-2568-%E0%B8%A7%E0%B8%99%E0%B8%AA%E0%B8%94%E0%B8%97%E0%B8%B2%E0%B8%A2%E0%B8%82%E0%B8%AD%E0%B8%87%E0%B8%9C%E0%B8%A1%E0%B8%97-activity-7404769727514005505-NQDb">
-    <img src="https://ratchanonnoknoy.vercel.app/Linkedin/6.png" width="75%" style="border: 1px solid #eee;" />
-    <br>View Full Post on LinkedIn
-  </a>
-</div>
-
----
+| Description | Link |
+| :--- | :--- |
+| **Professional Milestones**<br>Key Project Updates | [View Latest Achievement on LinkedIn](https://www.linkedin.com/posts/ratchanon-noknoy_bqxbrubrfbrabrtbrobrvbrubrtbrtbqxbrlbrsbrqbrwbrebrwbrtbrtbrh-activity-7411586835665244160-ieYC) |
