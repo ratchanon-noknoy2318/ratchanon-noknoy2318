@@ -1,41 +1,49 @@
 # Ratchanon Noknoy
 **Software Engineer | Next.js & Healthcare Solutions Specialist**
 
----
-
-### Contact & Documents
-| Type | Detail |
-| :--- | :--- |
-| **Online Presence** | [Portfolio](https://ratchanon-portfolio.onrender.com/) / [LinkedIn](https://www.linkedin.com/in/ratchanon-noknoy/) / [GitLab](https://gitlab.com/ratchanon.noknoy2318) |
-| **Documents** | [Transcript](https://drive.google.com/file/d/1Mg4eAGtq2RxS1nW2fJ1qw03oKTnWl1z0/view?usp=sharing) / [Certificates](https://drive.google.com/drive/folders/1j5vfWKoMlui5-D_4l2DrsH9CXVfc9Yf6) |
+| [LinkedIn](https://www.linkedin.com/in/ratchanon-noknoy/) | [Portfolio](https://ratchanon-portfolio.onrender.com/) | [GitLab](https://gitlab.com/ratchanon.noknoy2318) |
+| :---: | :---: | :---: |
 
 ---
 
-### Technical Proficiency
-| Category | Skills |
+### 🛠 Technical Proficiency
+
+| Category | Premium Tech Stack |
 | :--- | :--- |
-| **Frontend** | **Next.js**, React, Tailwind CSS |
-| **Backend** | **Google App Scripts**, SQL, LINE API, PHP |
-| **Methodology** | Clean Architecture, SOLID, Git |
+| **Frontend** | ![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white) ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB) ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black) ![Tailwind](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white) |
+| **Backend** | ![GAS](https://img.shields.io/badge/Google_App_Scripts-4285F4?style=for-the-badge&logo=google&logoColor=white) ![SQL](https://img.shields.io/badge/SQL-CC2927?style=for-the-badge&logo=microsoft-sql-server&logoColor=white) ![LINE API](https://img.shields.io/badge/LINE_API-00C300?style=for-the-badge&logo=line&logoColor=white) ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white) |
+| **Principles** | ![Clean Architecture](https://img.shields.io/badge/Clean_Architecture-000000?style=for-the-badge) ![SOLID Principles](https://img.shields.io/badge/SOLID_Principles-0056D2?style=for-the-badge) |
 
 ---
 
-### Professional Experience
-| Role & Timeline | Key Contributions |
-| :--- | :--- |
-| **Full Stack Developer**<br>KPPMCH Hospital<br>(2025) | • Built digital registration & paperless systems.<br>• Optimized web portal for SEO & Speed (Next.js).<br>• Engineered maternal care alerts via LINE API. |
-| **Programmer Intern**<br>Kosamphi Hospital<br>(2024) | • Developed ITA & Booking systems using **PHP**.<br>• Integrated **LINE Notify** for workflow efficiency. |
+### 💼 Professional Experience
+
+| Timeline | Role & Organization | Impact & Key Contributions |
+| :--- | :--- | :--- |
+| **2025** | **Full Stack Developer**<br>KPPMCH Hospital | • **Digitized Healthcare:** Engineered paperless registration and workflow systems.<br>• **Performance:** Optimized **Next.js** portal for superior SEO and Core Web Vitals.<br>• **Automation:** Architected maternal care notification systems via **LINE API**. |
+| **2024** | **Programmer Intern**<br>Kosamphi Hospital | • **Development:** Built ITA & Booking systems with high data integrity.<br>• **Efficiency:** Streamlined internal communication using **LINE Notify** automation. |
 
 ---
 
-### Education
-| Degree & Timeline | Institution & Achievement |
-| :--- | :--- |
-| **B.Sc. Software Engineering**<br>(2024) | **Mae Fah Luang University**<br>• Produced digital lessons for Chinese I (MFU Digital Learning). |
+### 🎓 Academic Background
+
+| Level | Institution | Achievements |
+| :--- | :--- | :--- |
+| **B.Sc.** | **Mae Fah Luang University** | Software Engineering (2024) • Digital Learning Content Developer |
+| **High School** | **Nawaminthrachinuthit Bodindecha** | Science-Mathematics (IPST) • **Silver Medalist** (Bio & Physics) |
 
 ---
 
-### Highlighted Achievement
-| Description | Link |
-| :--- | :--- |
-| **Professional Milestones**<br>Key Project Updates | [View Latest Achievement on LinkedIn](https://www.linkedin.com/posts/ratchanon-noknoy_bqxbrubrfbrabrtbrobrvbrubrtbrtbqxbrlbrsbrqbrwbrebrwbrtbrtbrh-activity-7411586835665244160-ieYC) |
+### 📂 Verified Credentials
+
+| Type | Description | Action |
+| :--- | :--- | :--- |
+| **Showcase** | Healthcare Innovation Impact | [**View LinkedIn Milestone**](https://www.linkedin.com/posts/ratchanon-noknoy_bqxbrubrfbrabrtbrobrvbrubrtbrtbqxbrlbrsbrqbrwbrebrwbrtbrtbrh-activity-7411586835665244160-ieYC) |
+| **Official** | Academic Transcript | [**Download PDF**](https://drive.google.com/file/d/1Mg4eAGtq2RxS1nW2fJ1qw03oKTnWl1z0/view?usp=sharing) |
+| **Archive** | Professional Certificates | [**Open Drive Folder**](https://drive.google.com/drive/folders/1j5vfWKoMlui5-D_4l2DrsH9CXVfc9Yf6) |
+
+---
+
+<p align="center">
+  <i>"Passionate about building scalable healthcare solutions through modern web technologies."</i>
+</p>
