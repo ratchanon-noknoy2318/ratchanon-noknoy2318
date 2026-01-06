@@ -27,10 +27,10 @@
 
 ### 🎓 Academic Background
 
-| Level | Institution | Achievement / Program |
+| Institution | Degree & Specialization | Key Highlights |
 | :--- | :--- | :--- |
-| **B.Sc.** | **Mae Fah Luang University** | Software Engineering (2024) • Digital Learning Developer |
-| **High School** | **Bodindecha (Nawamin)** | Science-Mathematics (IPST) • **Silver Medalist** (Bio & Physics) |
+| **Mae Fah Luang University**<br>![Graduated](https://img.shields.io/badge/Graduated-2024-success?style=flat-square) | **Bachelor of Science (B.Sc.)**<br>Software Engineering | • Specialized in Modern Web Architecture.<br>• Produced Digital Learning Content for MFU initiative. |
+| **Nawaminthrachinuthit Bodindecha**<br>![Program](https://img.shields.io/badge/Program-IPST-blue?style=flat-square) | **High School Diploma**<br>Science-Mathematics | • ![Medalist](https://img.shields.io/badge/Silver_Medalist-Bio_&_Physics-silver?style=flat-square)<br>• Distinguished Academic Achievement in IPST Program. |
 
 ---
 
