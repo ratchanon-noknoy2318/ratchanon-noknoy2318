@@ -1,67 +1,60 @@
-# Ratchanon Noknoy
-**Software Engineer | Frontend Specialist (Next.js & React)**
+# Welcome 👋
+
+**Full Stack Engineer | Next.js & React Specialist**
 
 <p align="left">
-  <a href="https://www.linkedin.com/in/ratchanon-noknoy/">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
-  </a>
-  <a href="https://ratchanon-portfolio.onrender.com/">
-    <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio" />
-  </a>
   <a href="mailto:ratchanon.noknoy2318@gmail.com">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+    <img src="https://img.shields.io/badge/Email-D14836?style=flat-square&logo=gmail&logoColor=white" alt="Email" />
+  </a>
+  <a href="https://www.linkedin.com/in/ratchanon-noknoy/">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+  <a href="https://ratchanon-portfolio.onrender.com">
+    <img src="https://img.shields.io/badge/Portfolio-000000?style=flat-square&logo=vercel&logoColor=white" alt="Portfolio" />
+  </a>
+  <a href="https://github.com/ratchanon-noknoy2318">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white" alt="GitHub" />
   </a>
 </p>
 
 ---
 
-### 🏛️ Executive Summary
-| Qualification | Description |
+### Technical Expertise
+
+| Category | Skills |
 | :--- | :--- |
-| **Specialization** | Advanced Frontend Engineering with **Next.js** & **React** ecosystem. |
-| **Methodology** | Expertise in **Clean Architecture**, **Agile/Scrum**, and **SIT/QA** processes. |
-| **Goal** | Delivering scalable, maintainable, and high-performance software solutions. |
+| **Frontend** | Next.js, React, TypeScript, JavaScript (ES6+), HTML5/CSS3 |
+| **Backend** | Node.js, MySQL, RESTful API, LINE Messaging API/Notify |
+| **Architecture** | Clean Architecture, System Design, Maintainable Code |
+| **QA & AI** | SIT, Regression Testing, Gemini AI (Logic Validation), Copilot |
+
+<p align="left">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=nextjs,react,ts,js,nodejs,mysql,git,github,postman,vercel,vscode" />
+  </a>
+</p>
 
 ---
 
-### 🛠️ Technical Competencies
+### Professional Experience
 
-| Domain | Technologies & Frameworks |
+| Period | Role @ Organization | Key Impact |
+| :--- | :--- | :--- |
+| **2025** | **Full Stack Engineer**<br>KPP Municipal Hospital | • Developed production web apps using **Next.js/React**.<br>• Implemented **Clean Architecture** & **LINE Messaging API**.<br>• Optimized **MySQL** & used **Gemini AI** for logic validation. |
+| **2024** | **Programmer Intern**<br>Kosamphi Nakhon Hospital | • Developed ITA & Booking systems using **PHP**.<br>• Automated workflows via **LINE Notify**. |
+
+---
+
+### Projects & Education
+
+| Category | Details |
 | :--- | :--- |
-| **Frontend Core** | **React**, **Next.js**, JavaScript (ES6+), HTML5, CSS3, Tailwind CSS |
-| **Architecture** | **Clean Architecture**, Component-Based Design, MVC, OOP |
-| **Software Lifecycle** | **Agile/Scrum**, SDLC Management, System Integration Testing (SIT) |
-| **AI & Productivity** | GitHub Copilot, **Gemini AI (Logic Validation)**, Chrome DevTools |
-| **Backend & Tools** | Node.js, SQL, Git, LINE Messaging API, Google Apps Script |
+| **Project** | **MFU Digital Learning:** Frontend for Chinese 1 Language lessons. |
+| **Education** | **B.Sc. Software Engineering**, Mae Fah Luang University (2024) |
+| **Background** | **Science-Math (IPST)**, Nawaminthrachinuthit Bodindecha (2017) |
 
 ---
 
-### 💼 Professional Experience
-
-| Period | Organization | Contributions & Key Impact |
-| :--- | :--- | :--- |
-| **2025** | **Kamphaeng Phet Municipal Hospital**<br>*(Full Stack Engineer)* | • Engineered production-ready web apps using **Next.js** & **React**.<br>• Optimized code maintainability via **Clean Architecture** patterns.<br>• Enhanced system logic & reliability using **AI-driven testing (Gemini)**.<br>• Orchestrated API integrations for seamless patient data flow. |
-| **2024** | **Kosamphi Nakhon Hospital**<br>*(Programmer Intern)* | • Developed internal ITA & Booking systems using HTML/CSS/PHP.<br>• Automated organizational workflows via **LINE Notify** integration. |
-
----
-
-### 📂 Key Project Spotlight
-
-| Project | Role & Technologies | Achievement |
-| :--- | :--- | :--- |
-| **Telemedicine System** | Lead Frontend / Next.js, GAS | Developed a digital registration & consultation platform to reduce hospital congestion. |
-| **MFU Digital Learning** | Frontend Dev / Web Dev | Built an interactive digital curriculum for Chinese Language studies. |
-
----
-
-### 🎓 Academic Background
-
-| Level | Institution | Degree / Program |
-| :--- | :--- | :--- |
-| **University** | **Mae Fah Luang University** | **B.Sc. in Software Engineering** (Graduated 2024) |
-| **High School** | **Nawaminthrachinuthit Bodindecha** | Science-Mathematics Program (**IPST**) |
-
----
 <p align="center">
-  <i>"Committed to Engineering Excellence through Modern Web Standards."</i>
+  <b>Available for Full-time and Contract Engineering Roles</b>
 </p>
