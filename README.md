@@ -1,26 +1,25 @@
 <div align="center">
 
-# Technical Stack
-
-<br/>
+### Technical Expertise
+Next.js, React, Tailwind, GAS, SQL, LINE API, Gemini AI
 
 <a href="https://skillicons.dev">
-  <img src="https://skillicons.dev/icons?i=nextjs,react,js,nodejs,mysql,git,github,gitlab,vercel,vscode&theme=dark" />
+  <img src="https://skillicons.dev/icons?i=nextjs,react,js,mysql,git,github,gitlab,vercel,vscode&theme=dark" />
 </a>
 
-<br/><br/>
-
-| Specialized Field | Technologies & Methodologies |
-| :--- | :--- |
-| **Development** | Next.js, React, JavaScript, Node.js, MySQL |
-| **Architecture** | **Clean Architecture**, RESTful API Design, System Design |
-| **AI & Messaging** | **Gemini AI Validation**, LINE Messaging API, LINE Notify |
-| **Engineering Quality** | **SIT (System Integration Testing)**, Regression Testing |
-
-<br/>
+[Portfolio](https://ratchanon-portfolio.vercel.app/) | [LinkedIn](https://www.linkedin.com/in/ratchanon-noknoy/) | [Email](mailto:ratchanon.noknoy2318@gmail.com)
 
 ---
 
-**Available for Full-time and Contract Engineering Roles**
+| Field | Core Focus |
+| :--- | :--- |
+| **Development** | Frontend (App Router), RESTful API, GAS |
+| **Healthcare IT** | HOSxP Integration, HIS Workflow, Medical Data SQL |
+| **Quality** | SIT/Regression Testing, CI/CD (Vercel) |
 
 </div>
+
+### Key Achievements
+* **Telemedicine System:** Automated registration via Next.js & LINE OA; reduced patient wait times.
+* **Internal Tools:** Real-time booking system using GAS & LINE Notify; optimized resource management.
+* **HIS Optimization:** Specialized in hospital data validation and HOSxP reporting systems.
