@@ -1,16 +1,7 @@
 <div align="center">
 
-# HI 👋
+# 🛠️ Technical Stack
 
-<p align="center">
-  <a href="mailto:ratchanon.noknoy2318@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
-  <a href="https://www.linkedin.com/in/ratchanon-noknoy/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-  <a href="https://ratchanon-portfolio.onrender.com"><img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white" /></a>
-</p>
-
----
-
-### 🛠️ Technical Stack
 <br/>
 
 <a href="https://skillicons.dev">
@@ -19,37 +10,27 @@
 
 <br/><br/>
 
-| Field | Technologies & Methodologies |
+| Specialized Field | Technologies & Methodologies |
 | :--- | :--- |
 | **Development** | Next.js, React, TypeScript, Node.js, MySQL |
-| **Architecture** | Clean Architecture, RESTful API Design, System Design |
-| **Quality & AI** | SIT/Regression Testing, Gemini AI Validation, LINE API |
+| **Architecture** | **Clean Architecture**, RESTful API Design, System Design |
+| **AI & Messaging** | **Gemini AI Validation**, LINE Messaging API, LINE Notify |
+| **Engineering Quality** | **SIT (System Integration Testing)**, Regression Testing, Debugging |
 
-</div>
-
----
-
-### 🚀 Experience & Education
-
-| Timeline | Organization | Role & Details |
-| :--- | :--- | :--- |
-| **2025** | **KPP Municipal Hospital** | Full Stack Engineer: Next.js, Clean Architecture, LINE API |
-| **2024** | **Kosamphi Nakhon Hospital** | Programmer Intern: PHP, SQL, LINE Notify Automation |
-| **2024** | **Mae Fah Luang University** | B.Sc. Software Engineering |
-| **Project** | **MFU Digital Learning** | Frontend Developer: Chinese 1 Language Lessons |
-| **2017** | **Nawaminthrachinuthit Bodindecha** | High School: Science-Mathematics Program (IPST) |
+<br/>
 
 ---
 
-### 📊 GitHub Activity
+### 🌐 Connect with Me
 
-<p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=ratchanon-noknoy2318&show_icons=true&theme=react&hide_border=true" height="150" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ratchanon-noknoy2318&layout=compact&theme=react&hide_border=true" height="150" />
+<p align="center">
+  <a href="mailto:ratchanon.noknoy2318@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+  <a href="https://www.linkedin.com/in/ratchanon-noknoy/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+  <a href="https://ratchanon-portfolio.onrender.com"><img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white" /></a>
 </p>
 
----
+<br/>
 
-<div align="center">
-  <b>Available for Full-time and Contract Engineering Roles</b>
+**Available for Full-time and Contract Engineering Roles**
+
 </div>
