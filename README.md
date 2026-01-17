@@ -5,24 +5,35 @@
 
 ---
 
-### Professional Expertise
-Specializing in Digital Health Transformation—integrating modern web technologies with Hospital Information Systems (HIS) to optimize clinical workflows and patient care.
-
-### Technical Stack
-* **Frontend:** Next.js, React, Tailwind CSS
-* **Backend & Data:** MySQL, RESTful APIs, SQL Optimization
-* **Health IT & Automation:** HOSxP Architecture, Google Apps Script, LINE Messaging API, Gemini AI
-
-### Key Contributions
-* **Telemedicine:** Developed and deployed medical platforms using Next.js and LINE OA integration.
-* **Automation:** Engineered data bridges and automated notification systems via Google Apps Script.
-* **System Optimization:** Improved HOSxP data delivery and reporting efficiency for clinical teams.
+### Professional Focus
+* **Digital Health:** Modernizing Hospital Information Systems (HIS) and clinical workflows.
+* **Telemedicine:** Engineering patient-centric platforms and LINE OA integrations.
+* **Data Automation:** Optimizing HOSxP data delivery and automated notification systems.
 
 ---
 
-### Skills
-<a href="https://skillicons.dev">
-  <img src="https://skillicons.dev/icons?i=nextjs,react,tailwindcss,js,mysql,git,github,vercel&theme=light" />
-</a>
+### Technical Stack
+![Next.js](https://img.shields.io/badge/next.js-000000?style=for-the-badge&logo=next.js&logoColor=white)
+![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
+![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white)
+![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
+![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white)
+![Google Apps Script](https://img.shields.io/badge/google%20apps%20script-4285F4?style=for-the-badge&logo=google&logoColor=white)
+![Git](https://img.shields.io/badge/git-%23F05032.svg?style=for-the-badge&logo=git&logoColor=white)
+![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white)
 
-*"Tech for better health and lives."*
+---
+
+### Key Projects
+
+**Telemedicine Systems**
+* Built medical service platforms using Next.js and LINE OA API.
+
+**Health IT Automation**
+* Developed data bridges and notification triggers via Google Apps Script.
+
+**System Optimization**
+* Enhanced HOSxP data processing and clinical reporting efficiency.
+
+---
+Copyright © 2026 Ratchanon Noknoy. All Rights Reserved.
