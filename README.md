@@ -1,6 +1,6 @@
 # Hi there! 👋
 
-**I am a developer passionate about transforming healthcare through technology, with practical experience working on HOSxP Hospital Information Systems (HIS), telemedicine solutions, and data automation to support clinical and administrative workflows.**
+**I am a healthcare-focused developer with hands-on experience in HOSxP Hospital Information Systems, telemedicine platforms, and LINE Messaging API integrations to enhance patient communication and service automation.**
 
 ---
 
