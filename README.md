@@ -4,7 +4,7 @@
 ### Tech Stack
 <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=nextjs,react,js,py,mysql,git,gcp,vercel" />
+    <img src="https://skillicons.dev/icons?i=py,mysql,nextjs,react,js,git,gcp,vercel" />
   </a>
 </p>
 
