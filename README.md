@@ -1,24 +1,22 @@
-# Hi there! 👋
+# Hi there! 👋 
+
 
 ### Tech Stack
 <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=py,mysql,nextjs,react,js,git,gcp,vercel" />
+    <img src="https://skillicons.dev/icons?i=py,mysql,git,gcp,nextjs,react,js,vercel" />
   </a>
 </p>
 
-### Domain Expertise & Tools
-![HOSxP System](https://img.shields.io/badge/HOSxP_System-007BFF?style=flat-square)
-![LINE Messaging API](https://img.shields.io/badge/LINE_Messaging_API-06C755?style=flat-square&logo=line&logoColor=white)
-![SQL Optimization](https://img.shields.io/badge/SQL_Optimization-FFD700?style=flat-square&logo=mysql&logoColor=black)
-![PDPA Compliance](https://img.shields.io/badge/PDPA_Compliance-Data_Privacy-success?style=flat-square&logo=security&logoColor=white)
-![Databricks](https://img.shields.io/badge/Databricks-Learning-ORANGE?style=flat-square&logo=databricks)
+### Expertise
+![Frontline Requirements](https://img.shields.io/badge/Frontline_Requirements_(Nurses)-critical?style=flat-square)
+![Healthcare Data Governance](https://img.shields.io/badge/Healthcare_Data_Governance_PDPA-important?style=flat-square)
+![HIS Integration](https://img.shields.io/badge/HIS_Data_Integration-007BFF?style=flat-square)
+![SQL Optimization](https://img.shields.io/badge/High--Performance_SQL-FFD700?style=flat-square)
+![ETL Pipeline](https://img.shields.io/badge/ETL_Development-success?style=flat-square)
+![Data Quality](https://img.shields.io/badge/Data_Quality_&_Validation-informational?style=flat-square)
+![LINE API](https://img.shields.io/badge/LINE_API-06C755?style=flat-square)
 
-### 📌 Activities
-![Government Project](https://img.shields.io/badge/Government_Project-Participation-blue?style=flat-square)
-
-- เข้าร่วมโครงการอบรมเสริมสร้างจริยธรรมและการคุ้มครองข้อมูลส่วนบุคคล (PDPA) ภาครัฐ  
-  🔗 https://www.kppmu.go.th/news-detail?hd=1&id=126854
-
-- เข้าร่วมโครงการอบรมพัฒนาความรู้สื่อดิจิทัลเชื่อมโยง ระหว่างเทศบาลเมืองกำแพงเพชรกับประชาชน ประจำปี 2568  
-  🔗 https://www.kppmu.go.th/news-detail?hd=1&id=126007
+### Learning
+![Databricks](https://img.shields.io/badge/Databricks-PySpark-ORANGE?style=flat-square)
+![Data Warehousing](https://img.shields.io/badge/Data_Warehousing-blueviolet?style=flat-square)
