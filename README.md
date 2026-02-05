@@ -17,6 +17,3 @@
 ![Data Quality](https://img.shields.io/badge/Data_Quality_&_Validation-informational?style=flat-square)
 ![LINE API](https://img.shields.io/badge/LINE_API-06C755?style=flat-square)
 
-### Learning
-![Databricks](https://img.shields.io/badge/Databricks-PySpark-ORANGE?style=flat-square)
-![Data Warehousing](https://img.shields.io/badge/Data_Warehousing-blueviolet?style=flat-square)
