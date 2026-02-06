@@ -24,7 +24,7 @@ From Wiki-Systems, the professional knowledge base.
 ### 1.2 Architectural Matrix
 | Category | Technical Specification |
 | :--- | :--- |
-| System Design | Analysis of Technical Trade-offs (Speed/Cost/Scale) |
+| System Design | Analysis of Technical Trade-offs (Cost/Scale) |
 | Data Security | PDPA Compliance Signed (Masking & Anonymization) |
 | Domain Logic | HOSxP Schema Mastery & Medical Workflow Engineering |
 | Optimization | SQL Performance Tuning for Large-Scale Clinical Data |
