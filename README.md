@@ -65,6 +65,5 @@ From Wiki-Systems, the professional knowledge base.
 ---
 
 <p align="center">
-  <small>This page was last edited on 6 February 2026, at 09:10 (UTC).<br>
-  Text is available under the Creative Commons Attribution-ShareAlike License.</small>
+  <small>All projects derived from Nursing Frontline requirements</small>
 </p>
