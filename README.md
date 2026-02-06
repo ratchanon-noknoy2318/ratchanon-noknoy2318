@@ -52,7 +52,7 @@ From Wiki-Systems, the professional knowledge base.
 ## 3. Deployment Registry
 | Identifier | Resource | Content Summary |
 | :--- | :--- | :--- |
-| ID-REG | [[PERSONAL PROFILE](Personal-Profile)] | Academic & Personnel Identity |
+| ID-REG | [[PERSONAL PROFILE](https://github.com/ratchanon-noknoy2318/ratchanon-noknoy2318/wiki)] | Academic & Personnel Identity |
 | EXP-LOG | [[KPMCH TRANSITION](https://www.linkedin.com/posts/ratchanon-noknoy_30-september-2025-last-day-at-kamphaeng-phet-ugcPost-7404769726641569792-Ci-C)] | Professional Tenure Record |
 
 ---
