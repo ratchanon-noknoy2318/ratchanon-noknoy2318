@@ -28,7 +28,7 @@ From Wiki-Systems, the professional knowledge base.
 | Data Security | PDPA Compliance Signed (Masking & Anonymization) |
 | Domain Logic | HOSxP Schema Mastery & Medical Workflow Engineering |
 | Optimization | SQL Performance Tuning for Large-Scale Clinical Data |
-| Core Stack | Next.js 14, React, Python, MySQL, GCP, Vercel |
+| Core Stack | React, Next.js,HOSxP, pandas, Vercel |
 
 ---
 
@@ -65,6 +65,6 @@ From Wiki-Systems, the professional knowledge base.
 ---
 
 <p align="center">
-  <small>This page was last edited on 6 February 2026, at 08:52 (UTC).<br>
+  <small>This page was last edited on 6 February 2026, at 09:10 (UTC).<br>
   Text is available under the Creative Commons Attribution-ShareAlike License.</small>
 </p>
