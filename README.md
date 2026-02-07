@@ -33,4 +33,4 @@
 | **Professional Record** | [LinkedIn Verification](https://www.linkedin.com/posts/ratchanon-noknoy_30-september-2025-last-day-at-kamphaeng-phet-ugcPost-7404769726641569792-Ci-C) |
 
 ---
-<p align="center"><small>© 2026 RN-SOLUTIONS</small></p>
+<p align="center"><small>All projects derived from Nursing Frontline requirements</small></p>
