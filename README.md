@@ -6,14 +6,13 @@ From Wiki-Systems, the professional knowledge base.
 | Infobox: System Engineer | |
 | :--- | :--- |
 | Identity | Ratchanon Noknoy |
-| Status | AUTHENTICATED / ACTIVE |
+| Status | AUTHENTICATED / COMPLETED |
 | Role | Solution Engineer (Healthcare Information Systems) |
 | Specialization | Healthcare IT Architecture |
 | Personnel ID | RN-2318-STAFF |
 | Affiliation | Kamphaeng Phet Municipal Government |
-| Service Period | 2024 – Present |
-| Registry Sync | February 2026 |
-
+| Service Period | March 2025 – September 2025 |
+| Registry Sync | February 2026 (Historical Record) |
 ---
 
 ## 1. System Capabilities
