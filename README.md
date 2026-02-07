@@ -1,67 +1,36 @@
-# Ratchanon Noknoy: Technical Registry
-From Wiki-Systems, the professional knowledge base.
+# Ratchanon Noknoy | Solution Engineer
+## Healthcare Information Systems
 
 ---
 
-| Infobox: System Engineer | |
+| IDENTITY & SERVICE | |
 | :--- | :--- |
-| Identity | Ratchanon Noknoy |
-| Status | AUTHENTICATED / COMPLETED |
-| Role | Solution Engineer (Healthcare Information Systems) |
-| Specialization | Healthcare IT Architecture |
-| Personnel ID | RN-2318-STAFF |
-| Affiliation | Kamphaeng Phet Municipal Government |
-| Service Period | March 2025 – September 2025 |
-| Registry Sync | February 2026 (Historical Record) |
+| **Organization** | Kamphaeng Phet Municipal Community Hospital |
+| **Service Period** | March 2025 – September 2025 |
+| **Specialization** | HIS Integration & PDPA Governance |
+
 ---
 
-## 1. System Capabilities
-
-### 1.1 Status Monitoring
-![Frontline](https://img.shields.io/badge/Requirements-Nursing_Frontline-critical?style=flat-square) ![Verified](https://img.shields.io/badge/Verified-By_Nursing_Staff-success?style=flat-square) ![Fast Learner](https://img.shields.io/badge/Learning-Rapid_Adaptation-blue?style=flat-square) ![Data Privacy](https://img.shields.io/badge/Security-PDPA_Governance_%7C_Verified-important?style=flat-square) ![Trade-off](https://img.shields.io/badge/Decision-Technical_Trade--offs-red?style=flat-square) ![HIS Integration](https://img.shields.io/badge/HIS_Integration-HOSxP_Pipeline-007BFF?style=flat-square) ![SQL Optimization](https://img.shields.io/badge/SQL-High_Performance-FFD700?style=flat-square)
-
-### 1.2 Architectural Matrix
-| Category | Technical Specification |
+| TECHNICAL CORE | SPECIFICATION |
 | :--- | :--- |
-| System Design | Analysis of Technical Trade-offs (Cost/Scale) |
-| Data Security | PDPA Compliance Signed (Masking & Anonymization) |
-| Domain Logic | HOSxP Schema Mastery & Medical Workflow Engineering |
-| Optimization | SQL Performance Tuning for Large-Scale Clinical Data |
-| Core Stack | React, Next.js, HOSxP, pandas, Vercel |
+| **Stack** | React, Next.js, HOSxP (SQL), pandas, Vercel |
+| **Expertise** | System Architecture, SQL Tuning, Data Masking |
+| **Compliance** | PDPA Verified & Clinical Workflow Optimization |
 
 ---
 
-## 2. Production Deployment
-
-### 2.1 Verified Governance & Training
-| Event / Certification | Specification | Official Record |
-| :--- | :--- | :--- |
-| PDPA & Cybersecurity | Personal Data Protection Act & Information Security | [🔗 Record](https://www.kppmu.go.th/news-detail?hd=1&id=126854) |
-| Digital Transformation | Digital Skill Enhancement for Medical Staff (Workshop) | [🔗 Record](https://www.kppmu.go.th/news-detail?hd=1&id=126007) |
-| Authority | Kamphaeng Phet Municipal Government | Verified Activity |
-
-### 2.2 System Implementation
-| Project ID | Deployment Specification | Verification |
-| :--- | :--- | :--- |
-| HIS-TRANS-01 | Patient Registration supporting Telemedicine services | [🔗 Report](https://www.kppmu.go.th/news-detail?hd=1&id=124000) |
-| Environment | Production Gateway (KPPMCH) | Kamphaeng Phet Municipal Government |
----
-
-## 3. Deployment Registry
-| Identifier | Resource | Content Summary |
-| :--- | :--- | :--- |
-| ID-REG | [[PERSONAL PROFILE](https://github.com/ratchanon-noknoy2318/ratchanon-noknoy2318/wiki/Personal-Profile)] | Academic & Personnel Identity |
-| EXP-LOG | [[KPMCH TRANSITION](https://www.linkedin.com/posts/ratchanon-noknoy_30-september-2025-last-day-at-kamphaeng-phet-ugcPost-7404769726641569792-Ci-C)] | Professional Tenure Record |
+| VERIFIED DEPLOYMENTS | EVIDENCE |
+| :--- | :--- |
+| **Patient Registration** | [Official Report](https://www.kppmu.go.th/news-detail?hd=1&id=124000) |
+| **PDPA & Cybersecurity** | [Official Record](https://www.kppmu.go.th/news-detail?hd=1&id=126854) |
+| **Medical Staff Training** | [Official Record](https://www.kppmu.go.th/news-detail?hd=1&id=126007) |
 
 ---
 
-## 4. Notes and References
-1. PDPA Verified: Participation in official municipal data protection workshops organized by the local government.
-2. Clinical Workshop: Active involvement in training nursing and medical staff for HIS system adoption.
-3. Infrastructure: All systems adhere to standard DevOps CI/CD pipelines.
+| RESOURCES | LINK |
+| :--- | :--- |
+| **Technical Wiki** | [Wiki Registry](https://github.com/ratchanon-noknoy2318/ratchanon-noknoy2318/wiki) |
+| **Professional Record** | [LinkedIn Verification](https://www.linkedin.com/posts/ratchanon-noknoy_30-september-2025-last-day-at-kamphaeng-phet-ugcPost-7404769726641569792-Ci-C) |
 
 ---
-
-<p align="center">
-  <small>All projects derived from Nursing Frontline requirements</small>
-</p>
+<p align="center"><small>© 2026 RN-SOLUTIONS</small></p>
