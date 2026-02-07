@@ -7,8 +7,8 @@
 | :--- | :--- |
 | Organization | Kamphaeng Phet Municipal Community Hospital |
 | Service Period | March 2025 – September 2025 |
-| Core Strength | Rapid Adaptation in Clinical Environments |
-| Requirement | Direct Collaboration with Nursing Frontline |
+| Adaptation | Rapid Learning in Clinical Environments |
+| Requirement | Verified by Nursing Frontline Collaboration |
 
 ---
 
