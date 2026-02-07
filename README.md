@@ -19,7 +19,7 @@ From Wiki-Systems, the professional knowledge base.
 ## 1. System Capabilities
 
 ### 1.1 Status Monitoring
-![Frontline](https://img.shields.io/badge/Requirements-Nursing_Frontline-critical?style=flat-square) ![Data Privacy](https://img.shields.io/badge/Security-PDPA_Governance_%7C_Verified-important?style=flat-square) ![Trade-off](https://img.shields.io/badge/Decision-Technical_Trade--offs-red?style=flat-square) ![HIS Integration](https://img.shields.io/badge/HIS_Integration-HOSxP_Pipeline-007BFF?style=flat-square) ![SQL Optimization](https://img.shields.io/badge/SQL-High_Performance-FFD700?style=flat-square)
+![Frontline](https://img.shields.io/badge/Requirements-Nursing_Frontline-critical?style=flat-square) ![Verified](https://img.shields.io/badge/Verified-By_Nursing_Staff-success?style=flat-square) ![Fast Learner](https://img.shields.io/badge/Learning-Rapid_Adaptation-blue?style=flat-square) ![Data Privacy](https://img.shields.io/badge/Security-PDPA_Governance_%7C_Verified-important?style=flat-square) ![Trade-off](https://img.shields.io/badge/Decision-Technical_Trade--offs-red?style=flat-square) ![HIS Integration](https://img.shields.io/badge/HIS_Integration-HOSxP_Pipeline-007BFF?style=flat-square) ![SQL Optimization](https://img.shields.io/badge/SQL-High_Performance-FFD700?style=flat-square)
 
 ### 1.2 Architectural Matrix
 | Category | Technical Specification |
