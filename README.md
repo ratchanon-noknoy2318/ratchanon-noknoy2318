@@ -44,9 +44,8 @@ From Wiki-Systems, the professional knowledge base.
 ### 2.2 System Implementation
 | Project ID | Deployment Specification | Verification |
 | :--- | :--- | :--- |
-| HIS-TRANS-01 | Line Messaging API & Centralized Service Hub | [🔗 Report](https://www.kppmu.go.th/news-detail?hd=1&id=124000) |
+| HIS-TRANS-01 | Patient Registration supporting Telemedicine services | [🔗 Report](https://www.kppmu.go.th/news-detail?hd=1&id=124000) |
 | Environment | Production Gateway (KPPMCH) | Kamphaeng Phet Municipal Government |
-
 ---
 
 ## 3. Deployment Registry
