@@ -3,12 +3,13 @@
 
 ---
 
-| SERVICE PROFILE | |
+| SERVICE PROFILE | SPECIFICATION |
 | :--- | :--- |
 | Organization | Kamphaeng Phet Municipal Community Hospital |
 | Service Period | March 2025 – September 2025 |
 | Adaptation | Rapid Learning in Clinical Environments |
 | Requirement | Verified by Nursing Frontline Collaboration |
+| Authority | Acknowledged by Secretary to the Mayor of Kamphaeng Phet |
 
 ---
 
@@ -26,6 +27,7 @@
 | Patient Registration | [Official News Report](https://www.kppmu.go.th/news-detail?hd=1&id=124000) |
 | PDPA & Cybersecurity | [Official Training Record](https://www.kppmu.go.th/news-detail?hd=1&id=126854) |
 | Digital Transformation | [Medical Staff Workshop](https://www.kppmu.go.th/news-detail?hd=1&id=126007) |
+| Implementation | Verified by Kamphaeng Phet Municipal Secretary |
 
 ---
 
