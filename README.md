@@ -1,40 +1,38 @@
 # Ratchanon Noknoy | Solution Engineer
-## Healthcare Information Systems (HIS) & Clinical Data Architecture
+## Healthcare Information Systems & Data Architecture
 
 ---
 
-| SERVICE PROFILE | PROFESSIONAL DETAILS |
+| EXPERIENCE & IMPACT | |
 | :--- | :--- |
-| Organization | Kamphaeng Phet Municipal Community Hospital |
-| Service Period | March 2025 – September 2025 |
-| Adaptation | Rapid Learning in Clinical Environments & Hospital Operations |
-| Requirement | Verified by Nursing Frontline Collaboration (User-Centric Design) |
-| Authority | Acknowledged by Secretary to the Mayor of Kamphaeng Phet Municipality |
+| **Organization** | Kamphaeng Phet Municipal Community Hospital |
+| **Service Period** | March 2025 – September 2025 |
+| **Agility** | Rapid Learning Curve in Hospital Clinical Operations |
+| **User Focus** | Requirements Verified by Nursing Frontline Collaboration |
+| **Governance** | Acknowledged by Secretary to the Mayor of Kamphaeng Phet |
 
 ---
 
-| TECHNICAL CORE | TECHNOLOGY & EXPERTISE |
+| TECHNICAL STACK | PROFESSIONAL EXPERTISE |
 | :--- | :--- |
-| Tech Stack | React, Next.js, HOSxP (MariaDB/SQL), Python (pandas), Vercel |
-| Methodology | Clinical Requirement Gathering & Agile Workflow Design |
-| Architecture | Healthcare System Design, SQL Optimization, Data Masking |
-| Compliance | Thailand PDPA Verified & Cybersecurity Standards |
+| **Core Tech** | React, Next.js, HOSxP (MariaDB/SQL), Python, Vercel |
+| **Engineering** | Clinical Workflow Design & SQL Performance Tuning |
+| **Security** | Thailand PDPA Compliance & Data Masking Logic |
 
 ---
 
-| VERIFIED DEPLOYMENTS | EVIDENCE & REFERENCES |
+| PRODUCTION DEPLOYMENTS | VERIFIED EVIDENCE |
 | :--- | :--- |
-| Patient Registration | [Official Hospital News Report](https://www.kppmu.go.th/news-detail?hd=1&id=124000) |
-| PDPA & Cybersecurity | [Official Data Protection Record](https://www.kppmu.go.th/news-detail?hd=1&id=126854) |
-| Digital Transformation | [Medical Staff Training Workshop](https://www.kppmu.go.th/news-detail?hd=1&id=126007) |
-| Implementation | Verified by Kamphaeng Phet Municipal Secretary |
+| **Patient Registration** | [Hospital Implementation Report](https://www.kppmu.go.th/news-detail?hd=1&id=124000) |
+| **PDPA & Cybersecurity** | [Official Compliance Record](https://www.kppmu.go.th/news-detail?hd=1&id=126854) |
+| **Digital Transformation** | [Medical Staff Workshop](https://www.kppmu.go.th/news-detail?hd=1&id=126007) |
 
 ---
 
-| PROFESSIONAL RESOURCES | RESOURCE LINK |
+| RESOURCES | LINK |
 | :--- | :--- |
-| Technical Registry | [Healthcare IT Wiki Registry](https://github.com/ratchanon-noknoy2318/ratchanon-noknoy2318/wiki) |
-| Employment Proof | [LinkedIn Verification Record](https://www.linkedin.com/posts/ratchanon-noknoy_30-september-2025-last-day-at-kamphaeng-phet-ugcPost-7404769726641569792-Ci-C) |
+| **Technical Wiki** | [Healthcare IT System Registry](https://github.com/ratchanon-noknoy2318/ratchanon-noknoy2318/wiki) |
+| **Career Record** | [LinkedIn Professional Verification](https://www.linkedin.com/posts/ratchanon-noknoy_30-september-2025-last-day-at-kamphaeng-phet-ugcPost-7404769726641569792-Ci-C) |
 
 ---
-<p align="center"><small>All projects derived from Nursing Frontline requirements & Optimized for Clinical Operations</small></p>
+<p align="center"><small>Systems Derived from Nursing Frontline Requirements | Optimized for Clinical Impact</small></p>
