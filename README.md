@@ -35,4 +35,4 @@
 | **Career Record** | [LinkedIn Professional Verification](https://www.linkedin.com/posts/ratchanon-noknoy_30-september-2025-last-day-at-kamphaeng-phet-ugcPost-7404769726641569792-Ci-C) |
 
 ---
-<p align="center"><small>Systems Derived from Nursing Frontline Requirements | Optimized for Clinical Impact</small></p>
+<p align="center"><small>Systems Derived from Nursing Frontline Requirements | Without senior engineering oversight</small></p>
