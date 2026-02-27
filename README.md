@@ -1,38 +1,35 @@
-# Ratchanon Noknoy | Solution Engineer
-## Healthcare Information Systems & Data Architecture
+## Full-Stack Developer | Healthcare IT Specialist
 
 ---
 
-| EXPERIENCE & IMPACT | |
+| WORK EXPERIENCE | ACHIEVEMENTS & CONTRIBUTIONS |
 | :--- | :--- |
-| **Organization** | Kamphaeng Phet Municipal Community Hospital |
-| **Service Period** | March 2025 – September 2025 |
-| **Agility** | Rapid Learning Curve in Hospital Clinical Operations |
-| **User Focus** | Requirements Verified by Nursing Frontline Collaboration |
-| **Governance** | Acknowledged by Secretary to the Mayor of Kamphaeng Phet |
+| **Organization** | Kamphaeng Phet Municipal Hospital (March – Sept 2025) |
+| **Success Factors** | Fast learner in hospital systems; Strong teamwork with nurses |
+| **Key Achievement** | Successfully launched IT systems used by medical staff |
 
 ---
 
-| TECHNICAL STACK | PROFESSIONAL EXPERTISE |
+| TECHNICAL SKILLS | TOOLS & EXPERTISE |
 | :--- | :--- |
-| **Core Tech** | React, Next.js, HOSxP (MariaDB/SQL), Python, Vercel |
-| **Engineering** | Clinical Workflow Design & SQL Performance Tuning |
-| **Security** | Thailand PDPA Compliance & Data Masking Logic |
+| **Programming** | React, Next.js, MySQL (SQL), Vercel |
+| **IT Specialist** | Hospital Database Management & System Optimization |
+| **Data Security** | Personal Data Protection (PDPA) & Patient Privacy |
 
 ---
 
-| PRODUCTION DEPLOYMENTS | VERIFIED EVIDENCE |
+| COMPLETED PROJECTS | OFFICIAL LINKS (PROOF) |
 | :--- | :--- |
-| **Patient Registration** | [Hospital Implementation Report](https://www.kppmu.go.th/news-detail?hd=1&id=124000) |
-| **PDPA & Cybersecurity** | [Official Compliance Record](https://www.kppmu.go.th/news-detail?hd=1&id=126854) |
-| **Digital Transformation** | [Medical Staff Workshop](https://www.kppmu.go.th/news-detail?hd=1&id=126007) |
+| **Registration System** | [View News & Photos](https://www.kppmu.go.th/news-detail?hd=1&id=124000) |
+| **Security (PDPA)** | [View Official Record](https://www.kppmu.go.th/news-detail?hd=1&id=126854) |
+| **IT Training** | [Medical Staff Workshop](https://www.kppmu.go.th/news-detail?hd=1&id=126007) |
 
 ---
 
-| RESOURCES | LINK |
+| PORTFOLIO & CONTACT | ACCESS LINK |
 | :--- | :--- |
-| **Technical Wiki** | [Healthcare IT System Registry](https://github.com/ratchanon-noknoy2318/ratchanon-noknoy2318/wiki) |
-| **Career Record** | [LinkedIn Professional Verification](https://www.linkedin.com/posts/ratchanon-noknoy_30-september-2025-last-day-at-kamphaeng-phet-ugcPost-7404769726641569792-Ci-C) |
+| **My Portfolio** | [ratchanon-portfolio.vercel.app](https://ratchanon-portfolio.vercel.app/) |
+| **Work Experience** | [LinkedIn Verification](https://www.linkedin.com/posts/ratchanon-noknoy_30-september-2025-last-day-at-kamphaeng-phet-ugcPost-7404769726641569792-Ci-C) |
 
 ---
-<p align="center"><small>Systems Derived from Nursing Frontline Requirements | Without senior engineering oversight</small></p>
+<p align="center"><small>Designing scalable, high-impact systems with strong problem-solving, ownership, and real-world understanding.</small></p>
