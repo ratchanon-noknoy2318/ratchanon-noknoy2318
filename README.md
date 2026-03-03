@@ -11,7 +11,8 @@
 
 | ORGANIZATION | KEY HIGHLIGHTS & ACHIEVEMENTS |
 | :--- | :--- |
-| **Kamphaeng Phet Municipal Hospital** | Computer Technical Officer (Mar – Sep 2025) |
+| **Kamphaeng Phet Municipal Hospital** | Computer Technical Officer (Mar – Sep 2025)|
+| **Contract** | 7-Month Fixed-Term Contract|
 | **Project Delivery** | Built a complete remote care system alone within 30 days. |
 | **Database Management** | Cleaned and managed 400,000+ hospital patient records. |
 | **Teamwork** | Collaborated with nurses to design easy-to-use medical apps. |
