@@ -3,7 +3,9 @@
   <h3>Software Engineer | HealthTech Specialist | Problem Solver</h3>
   <p><em>"I don't just write code; I build digital tools that help medical staff save lives and work better."</em></p>
 
-  [Portfolio](https://ratchanon-portfolio.vercel.app/) | [LinkedIn](https://linkedin.com/in/ratchanon-noknoy) | [Email](mailto:ratchanon.noknoy2318@gmail.com)
+  [![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://ratchanon-portfolio.vercel.app/)
+  [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/ratchanon-noknoy)
+  [![Email](https://img.shields.io/badge/Email-D44638?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ratchanon.noknoy2318@gmail.com)
 </div>
 
 ---
